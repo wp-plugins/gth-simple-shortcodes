@@ -3,7 +3,7 @@
  * Plugin Name: GTH Simple Shortcodes
  * Plugin URI: http://www.greentiehosting.com/simple-shortcodes
  * Description: A extremely lightweight plugin that gives you a massive amount of shortcodes at the ready.
- * Version: 1.0.0.1
+ * Version: 1.0.0.2
  * Author: Green Tie Hosting
  * Author URI: http://www.greentiehosting.com
  * Text Domain: gthss
